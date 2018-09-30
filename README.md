@@ -17,3 +17,4 @@
 	<version>1.0.0</version>
 </dependency>
 ```
+## 3，IDEA上添加启动主类com.zjtachao.fish.water.common.base.boot.WaterBootApplication
