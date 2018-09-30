@@ -14,7 +14,7 @@
 <dependency>
 	<groupId>com.zjtachao.fish.water</groupId>
 	<artifactId>water-boot-starter-common</artifactId>
-	<version>1.0.0</version>
+	<version>2.0.0</version>
 </dependency>
 ```
 ## 3，IDEA上添加启动主类com.zjtachao.fish.water.common.base.boot.WaterBootApplication
