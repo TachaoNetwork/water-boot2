@@ -1,0 +1,9 @@
+
+dsquid:S3027"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(Ö©´Øøÿÿÿÿ
+@squid:S1075"&Remove this hard-coded path-delimiter.(ÛÏ¿ıÿÿÿÿ
+@squid:S1075"&Remove this hard-coded path-delimiter.(ÛÏ¿ıÿÿÿÿ
+@squid:S1075"&Remove this hard-coded path-delimiter.(ÛÏ¿ıÿÿÿÿ
+;squid:S1075"&Remove this hard-coded path-delimiter.(àôêÊ
+hsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(€…±ùıÿÿÿÿ
+Osquid:S1118":Add a private constructor to hide the implicit public one.(‰šìÜ
+Csquid:S2140")Use "java.util.Random.nextInt()" instead.(ÿßË€ıÿÿÿÿ

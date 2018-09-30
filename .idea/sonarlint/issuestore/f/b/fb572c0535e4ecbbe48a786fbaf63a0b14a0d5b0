@@ -1,0 +1,9 @@
+
+6squid:S1643"Use a StringBuilder instead.(òí›¡ûÿÿÿÿ
+6squid:S1643"Use a StringBuilder instead.(òí›¡ûÿÿÿÿ
+0squid:S3626"Remove this redundant jump.(ÉŠ©ƒ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó«àý
+xsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÂýœÌøÿÿÿÿ
+xsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(×­£ùýÿÿÿÿ
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(¶ë¥‹üÿÿÿÿ

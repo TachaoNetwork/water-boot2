@@ -1,0 +1,14 @@
+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö¡¹ê
+;squid:S1170"!Make this final field static too.(ÄÁò°øÿÿÿÿ
+;squid:S1170"!Make this final field static too.(õÑ€²şÿÿÿÿ
+;squid:S1170"!Make this final field static too.(âÍ–ùùÿÿÿÿ
+;squid:S1170"!Make this final field static too.(Ï¡Ã©şÿÿÿÿ
+;squid:S1170"!Make this final field static too.(ªøºøÿÿÿÿ
+6squid:S1170"!Make this final field static too.(ïê¥Ç
+6squid:S1170"!Make this final field static too.(ÌÓÖŞ
+6squid:S1170"!Make this final field static too.(®õéÚ
+6squid:S1170"!Make this final field static too.(ÿ¼Õô
+6squid:S1170"!Make this final field static too.(•§€Õ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı

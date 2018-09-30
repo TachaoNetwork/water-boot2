@@ -1,0 +1,7 @@
+
+†"squid:ClassVariableVisibilityCheck"UMake pageCount a static final constant or non-public and provide accessors if needed.(Ì£Úáýÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck"UMake dataCount a static final constant or non-public and provide accessors if needed.(êðîÆþÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck"UMake pageIndex a static final constant or non-public and provide accessors if needed.(ñÔ…³úÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"RMake endNum a static final constant or non-public and provide accessors if needed.(õš–åýÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"VMake deleteFlag a static final constant or non-public and provide accessors if needed.(øÏÈÌ8º£êÂâ,
+€"squid:ClassVariableVisibilityCheck"TMake startNum a static final constant or non-public and provide accessors if needed.(ùµý£

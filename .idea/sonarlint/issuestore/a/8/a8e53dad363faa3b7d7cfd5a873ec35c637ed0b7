@@ -1,0 +1,6 @@
+
+ssquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ž«§˜
+xsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÛÂÒ¼þÿÿÿÿ
+Nsquid:S1118":Add a private constructor to hide the implicit public one.(Û©Ÿy
+Vsquid:S3457"AFormat specifiers should be used instead of string concatenation.(Ö‚ÜŽ
+Vsquid:S3457"AFormat specifiers should be used instead of string concatenation.(Ö‚ÜŽ

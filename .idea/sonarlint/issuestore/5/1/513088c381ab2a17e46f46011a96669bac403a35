@@ -1,0 +1,7 @@
+
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖëŸ¡ÿÿÿÿÿ
+|"squid:ClassVariableVisibilityCheck"PMake code a static final constant or non-public and provide accessors if needed.(°ŠãÅ
+{"squid:ClassVariableVisibilityCheck"OMake msg a static final constant or non-public and provide accessors if needed.(İÑºŒ
+€"squid:ClassVariableVisibilityCheck"OMake rst a static final constant or non-public and provide accessors if needed.(ªéüıÿÿÿÿ
+}"squid:ClassVariableVisibilityCheck"QMake count a static final constant or non-public and provide accessors if needed.(½»å°
+?squid:S1948"%Make "rst" transient or serializable.(ªéüıÿÿÿÿ

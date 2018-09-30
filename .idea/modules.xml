@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/water-boot-starter-common/water-boot-starter-common.iml" filepath="$PROJECT_DIR$/water-boot-starter-common/water-boot-starter-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/water-boot-starter-parent/water-boot-starter-parent.iml" filepath="$PROJECT_DIR$/water-boot-starter-parent/water-boot-starter-parent.iml" />
+    </modules>
+  </component>
+</project>

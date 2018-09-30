@@ -1,0 +1,7 @@
+
+¤%squid:RedundantThrowsDeclarationCheck"vRemove the declaration of thrown exception 'org.springframework.dao.DataAccessException' which is a runtime exception.(È¥¢u
+ª%squid:RedundantThrowsDeclarationCheck"vRemove the declaration of thrown exception 'org.springframework.dao.DataAccessException' which is a runtime exception.(ßùÂúÿÿÿÿ
+‚squid:S1192"hDefine a constant instead of duplicating this literal "è®¾ç½®æ•°æ®å‡ºé”™ï¼Œé”™è¯¯ä¿¡æ¯ä¸ºï¼š" 3 times.(İãºëùÿÿÿÿ
+Lsquid:S2589"7Remove this expression which always evaluates to "true"(¾õÛû
+=squid:S1481"(Remove this unused "now" local variable.(•ÛùÈ
+Lsquid:S1854"7Remove this useless assignment to local variable "now".(•ÛùÈ

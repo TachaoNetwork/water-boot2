@@ -1,0 +1,6 @@
+
+‚"squid:ClassVariableVisibilityCheck"VMake createTime a static final constant or non-public and provide accessors if needed.(ßÞÑú
+€"squid:ClassVariableVisibilityCheck"TMake createId a static final constant or non-public and provide accessors if needed.(“¬×õ
+‡"squid:ClassVariableVisibilityCheck"VMake modifyTime a static final constant or non-public and provide accessors if needed.(‘°ª·üÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck"TMake modifyId a static final constant or non-public and provide accessors if needed.(Ñ¶ç€
+‚"squid:ClassVariableVisibilityCheck"VMake deleteFlag a static final constant or non-public and provide accessors if needed.(øÏÈÌ

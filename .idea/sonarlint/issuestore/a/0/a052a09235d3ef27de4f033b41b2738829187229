@@ -1,0 +1,44 @@
+
+3squid:S2183"Remove this useless shift(‰†ıÿÿÿÿ
+`squid:S3027"FPut single-quotes around '%' to use the faster "indexOf(char)" method.(ë’‰½úÿÿÿÿ
+S"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(´Ü«Ùÿÿÿÿÿ
+Bsquid:S1068"-Remove this unused "INADDR4SZ" private field.(×êË
+Hsquid:S1068".Remove this unused "INADDR16SZ" private field.(¤éÙ“şÿÿÿÿ
+@squid:S1068"+Remove this unused "INT16SZ" private field.(îöòÚ
+`
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(ØŸš
+e
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(Ú²Âåşÿÿÿÿ
+e
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+e
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+e
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ
+e
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(£Ş¾Ëşÿÿÿÿ
+esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(´Ü«Ùÿÿÿÿÿ
+Csquid:S1313".Make this IP "127.0.0.1" address configurable.(‡Åï›
+Lsquid:S2589"8Remove this expression which always evaluates to "false"(¸¥İ	
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(§å¥Á
+msquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 139 to the 15 allowed.(ıá­¼şÿÿÿÿ
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(µ¡‰ışÿÿÿÿ
+dsquid:S2259"J"NullPointerException" will be thrown when invoking method "internalIp()".(¼Ë¾“ûÿÿÿÿ
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
+;squid:S1168"&Return an empty array instead of null.(¥¹ï
